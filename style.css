@@ -9,7 +9,8 @@ body{
 	width: 100%;
 	overflow: scroll;
 	overflow-x: hidden;
-    background-image: url('Cake.jpeg');
+  background-image: url('images/Cake.jpeg');
+  background-size: cover;
 }
 
 header{
@@ -25,6 +26,7 @@ header{
   margin: 0;
 
 }
+
 footer{
   font-family: 'Text Me One', sans-serif;
   font-size: 1em;
